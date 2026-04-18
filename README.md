@@ -4,4 +4,4 @@
 #### In this in practice HTML, CSS, JavaScript, React
     HTML - basic structure
     CSS - design
-    JavaScript - 
+    JavaScript - logic
