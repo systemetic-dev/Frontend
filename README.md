@@ -5,3 +5,4 @@
     HTML - basic structure
     CSS - design
     JavaScript - logic
+    Framework - React
